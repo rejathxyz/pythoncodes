@@ -1,0 +1,1 @@
+#to find the sums of digits of number till it becomes one digit value
