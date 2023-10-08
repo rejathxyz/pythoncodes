@@ -23,5 +23,5 @@ def generate_password(length=12):
   return ''.join(password)
 
 
-password = generate_password(16)
+password = generate_password(length=12)
 print("Random Password:", password)
